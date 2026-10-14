@@ -1,0 +1,15 @@
+{
+  "name": "bot-wa-render",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Baileys Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "node-fetch": "^2.7.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
